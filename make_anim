@@ -1,0 +1,2 @@
+ffmpeg -framerate $1 -pattern_type glob -i './mgp_img/*.png' $2
+rm ./mgp_img/*.png

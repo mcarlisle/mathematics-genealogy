@@ -1,0 +1,238 @@
+1	"China"	1379302771
+2	"India"	1281935911
+3	"UnitedStates"	326625791
+4	"Indonesia"	260580739
+5	"Brazil"	207353391
+6	"Pakistan"	204924861
+7	"Nigeria"	190632261
+8	"Bangladesh"	157826578
+9	"Russia"	142257519
+10	"Japan"	126451398
+11	"Mexico"	124574795
+12	"Ethiopia"	105350020
+13	"Philippines"	104256076
+14	"Egypt"	97041072
+15	"Vietnam"	96160163
+16	"Congo, Democratic Republic of the"	83301151
+17	"Iran"	82021564
+18	"Turkey"	80845215
+19	"Germany"	80594017
+20	"Thailand"	68414135
+21	"France"	67106161
+22	"UnitedKingdom"	65648100
+23	"Italy"	62137802
+24	"Burma"	55123814
+25	"South Africa"	54841552
+26	"Tanzania"	53950935
+27	"Korea, South"	51181299
+28	"Spain"	48958159
+29	"Colombia"	47698524
+30	"Kenya"	47615739
+31	"Argentina"	44293293
+32	"Ukraine"	44033874
+33	"Algeria"	40969443
+34	"Uganda"	39570125
+35	"Iraq"	39192111
+36	"Poland"	38476269
+37	"Sudan"	37345935
+38	"Canada"	35623680
+39	"Afghanistan"	34124811
+40	"Morocco"	33986655
+41	"Malaysia"	31381992
+42	"Venezuela"	31304016
+43	"Peru"	31036656
+44	"Uzbekistan"	29748859
+45	"Nepal"	29384297
+46	"Angola"	29310273
+47	"Saudi Arabia"	28571770
+48	"Yemen"	28036829
+49	"Ghana"	27499924
+50	"Mozambique"	26573706
+51	"Korea, North"	25248140
+52	"Madagascar"	25054161
+53	"Cameroon"	24994885
+54	"Cote d'Ivoire"	24184810
+55	"Taiwan"	23508428
+56	"Australia"	23232413
+57	"Sri Lanka"	22409381
+58	"Romania"	21529967
+59	"Burkina Faso"	20107509
+60	"Niger"	19245344
+61	"Malawi"	19196246
+62	"Kazakhstan"	18556698
+63	"Syria"	18028549
+64	"Mali"	17885245
+65	"Chile"	17789267
+66	"Netherlands"	17084719
+67	"Ecuador"	16290913
+68	"Cambodia"	16204486
+69	"Zambia"	15972001
+70	"Guatemala"	15460732
+71	"Senegal"	14668522
+72	"Zimbabwe"	13805084
+73	"South Sudan"	13026129
+74	"Guinea"	12413867
+75	"Chad"	12075985
+76	"Rwanda"	11901484
+77	"Belgium"	11491346
+78	"Burundi"	11466756
+79	"Tunisia"	11403800
+80	"Cuba"	11147407
+81	"Bolivia"	11138234
+82	"Benin"	11038805
+83	"Somalia"	11031386
+84	"Portugal"	10839514
+85	"Greece"	10768477
+86	"Dominican Republic"	10734247
+87	"Czechia"	10674723
+88	"Haiti"	10646714
+89	"Jordan"	10248069
+90	"Azerbaijan"	9961396
+91	"Sweden"	9960487
+92	"Hungary"	9850845
+93	"Belarus"	9549747
+94	"Honduras"	9038741
+95	"Austria"	8754413
+96	"Tajikistan"	8468555
+97	"Israel"	8299706
+98	"Switzerland"	8236303
+99	"Togo"	7965055
+100	"Hong Kong"	7191503
+101	"Laos"	7126706
+102	"Serbia"	7111024
+103	"Bulgaria"	7101510
+104	"Paraguay"	6943739
+105	"Papua New Guinea"	6909701
+106	"Libya"	6653210
+107	"Lebanon"	6229794
+108	"El Salvador"	6172011
+109	"Sierra Leone"	6163195
+110	"United Arab Emirates"	6072475
+111	"Nicaragua"	6025951
+112	"Eritrea"	5918919
+113	"Singapore"	5888926
+114	"Kyrgyzstan"	5789122
+115	"Central African Republic"	5625118
+116	"Denmark"	5605948
+117	"Finland"	5518371
+118	"Slovakia"	5445829
+119	"Turkmenistan"	5351277
+120	"Norway"	5320045
+121	"Ireland"	5011102
+122	"Congo, Republic of the"	4954674
+123	"Costa Rica"	4930258
+124	"Georgia"	4926330
+125	"Liberia"	4689021
+126	"Oman"	4613241
+127	"New Zealand"	4510327
+128	"Croatia"	4292095
+129	"Bosnia and Herzegovina"	3856181
+130	"Mauritania"	3758571
+131	"Panama"	3753142
+132	"Moldova"	3474121
+133	"Uruguay"	3360148
+134	"Puerto Rico"	3351827
+135	"Mongolia"	3068243
+136	"Albania"	3047987
+137	"Armenia"	3045191
+138	"Jamaica"	2990561
+139	"Kuwait"	2875422
+140	"Lithuania"	2823859
+141	"West Bank"	2747943
+142	"Namibia"	2484780
+143	"Qatar"	2314307
+144	"Botswana"	2214858
+145	"Macedonia"	2103721
+146	"Gambia, The"	2051363
+147	"Slovenia"	1972126
+148	"Lesotho"	1958042
+149	"Latvia"	1944643
+150	"Kosovo"	1895250
+151	"Gaza Strip"	1795183
+152	"Guinea-Bissau"	1792338
+153	"Gabon"	1772255
+154	"Eswatini"	1467152
+155	"Bahrain"	1410942
+156	"Mauritius"	1356388
+157	"Timor-Leste"	1291358
+158	"Estonia"	1251581
+159	"Cyprus"	1221549
+160	"Trinidad and Tobago"	1218208
+161	"Fiji"	920938
+162	"Djibouti"	865267
+163	"Comoros"	808080
+164	"Equatorial Guinea"	778358
+165	"Bhutan"	758288
+166	"Guyana"	737718
+167	"Solomon Islands"	647581
+168	"Montenegro"	642550
+169	"Western Sahara"	603253
+170	"Macau"	601969
+171	"Luxembourg"	594130
+172	"Suriname"	591919
+173	"Cabo Verde"	560899
+174	"Brunei"	443593
+175	"Malta"	416338
+176	"Maldives"	392709
+177	"Belize"	360346
+178	"Iceland"	339747
+179	"Bahamas, The"	329988
+180	"Barbados"	292336
+181	"French Polynesia"	287881
+182	"Vanuatu"	282814
+183	"New Caledonia"	279070
+184	"Sao Tome and Principe"	201025
+185	"Samoa"	200108
+186	"Guam"	167358
+187	"Saint Lucia"	164994
+188	"Curacao"	149648
+189	"Aruba"	115120
+190	"Grenada"	111724
+191	"Kiribati"	108145
+192	"Virgin Islands"	107268
+193	"Tonga"	106479
+194	"Micronesia, Federated States of"	104196
+195	"Saint Vincent and the Grenadines"	102089
+196	"Jersey"	98840
+197	"Antigua and Barbuda"	94731
+198	"Seychelles"	93920
+199	"Isle of Man"	88815
+200	"Andorra"	76965
+201	"Marshall Islands"	74539
+202	"Dominica"	73897
+203	"Bermuda"	70864
+204	"Guernsey"	66502
+205	"Cayman Islands"	58441
+206	"Greenland"	57713
+207	"Saint Kitts and Nevis"	52715
+208	"Turks and Caicos Islands"	52570
+209	"Northern Mariana Islands"	52263
+210	"American Samoa"	51504
+211	"Faroe Islands"	50730
+212	"Sint Maarten"	42083
+213	"Liechtenstein"	38244
+214	"British Virgin Islands"	35015
+215	"San Marino"	33537
+216	"Saint Martin"	32125
+217	"Monaco"	30645
+218	"Gibraltar"	29396
+219	"Palau"	21431
+220	"Anguilla"	17087
+221	"Wallis and Futuna"	15714
+222	"Nauru"	11359
+223	"Tuvalu"	11052
+224	"Cook Islands"	9290
+225	"Saint Helena, Ascension, and Tristan da Cunha"	7828
+226	"Saint Barthelemy"	7184
+227	"Saint Pierre and Miquelon"	5533
+228	"Montserrat"	5292
+229	"Falkland Islands (Islas Malvinas)"	3198
+230	"Svalbard"	2583
+231	"Christmas Island"	2205
+232	"Norfolk Island"	1748
+233	"Niue"	1618
+234	"Paracel Islands"	1440
+235	"Tokelau"	1285
+236	"Holy See (Vatican City)"	1000
+237	"Cocos (Keeling) Islands"	596
+238	"Pitcairn Islands"	54                                                
