@@ -31,7 +31,7 @@ There are several aspects to this project:
 1. Collect geographic data (from Google Geocode API) on as many of the schools in the MGP as possible to enable map-based visualizations.
 2. Using the Geocode data from #1, build visualizations to track the progress of mathematical thought across the globe over time, using Basemap (https://matplotlib.org/basemap/) and FFMPEG (https://ffmpeg.org/).
 3. Use NLP to accurately classify a mathematics thesis title via the MSC, to fill in the missing MSC codes in the MGP, and enable the data set available for plotting to be larger. Create a text-based input to classify user-input text into the MSC (after being trained on these titles and the MSC topics).
-4. Use the newly-classified thesis titles from #3 to build a visualization of categorizations across years.
+4. Use the newly-classified thesis titles from #3 to build a visualization of categorizations across years and across countries.
 5. Use NLP clustering to reclassify theses, using the MSC as a guide, into smaller numbers of categories. 
 6. Build a visualization that displays the clustering in #5, and another that compares the relative sizes of two or more collections of theses/degrees (via individual MSC codes, or some other paramater(s)).
 7. Make it personal: I am interested in mapping my own lineage, to see the geographic and subject landscape of my own mathematical history.
