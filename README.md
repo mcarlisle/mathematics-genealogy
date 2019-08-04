@@ -25,11 +25,10 @@ The programming tools and APIs used in this project are:
  * Bokeh
  * Plotly Express
  
-There are several aspects to this project. 
+There are several aspects to this project. Some notes about the files here:
  * The .mp4 files demonstrate #2 and #7.
  * What MSC are you?.ipynb and its associated code demonstrate #3. (The model itself is not on Github.)
  * visualizations.ipynb contains graphs from #4 and #6.
- * 
 
 0. Clean the data of the MGP to enable analysis and visualizations.
 1. Collect geographic data (from Google Geocode API) on as many of the schools in the MGP as possible to enable map-based visualizations.
