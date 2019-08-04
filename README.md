@@ -39,4 +39,4 @@ There are several aspects to this project. Some notes about the files here:
 6. Build a visualization that displays the clustering in #5, and another that compares the relative sizes of two or more collections of theses/degrees (via individual MSC codes, or some other paramater(s)).
 7. Make it personal: I am interested in mapping my own lineage, to see the geographic and subject landscape of my own mathematical history.
 
-NOTE: Jupyter notebooks given here are not supplied with the data supplied by the MGP, nor with most of the pickled data generated during the project. Code is here for purposes of documenting the project.
+NOTE: Jupyter notebooks given here are not supplied with the data supplied by the MGP. I have supplied some aggregated data generated during the project.
